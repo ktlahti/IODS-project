@@ -9,5 +9,5 @@
 date()
 
 ```
-The text continues here.
+**Great** to be here! I anm very excited abou this course. I feel that data analysis is taught way too little to bachelor and master students. I have grauated from environmental ecology and we had only one mandatory data analysis course where we went though only the basics of SPSS. Nevertheless, in my Master's theses I was put up againts R! I had a lot of help from one of ou department's PhD student but there was also a lot I had to figure out on my own.But I maid it and now I am happy to learn more! Please, checkout my [GitHub repository](https://github.com/ktlahti/IODS-project)
 
